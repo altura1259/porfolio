@@ -1,7 +1,6 @@
 # 🗂️ Portfolio – Daniel Altura
 
-Diseñador en Comunicación Visual y especialista en datos con más de 20 años 
-de experiencia en proyectos públicos y privados.
+Diseñador en Comunicación Visual y con especialización en análisis de datos y mas de 20 años de experiencia en proyectos públicos y privados.
 
 ---
 
