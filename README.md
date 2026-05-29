@@ -38,3 +38,60 @@ de servicios desde una interfaz simple y accesible.
 ![Dashboard](dashboard.png)
 
 ![Cierre](cierre.png)
+
+---
+
+## 🏔️ Sistema de Reservas – Excursiones Turísticas
+
+**Tipo de proyecto:** Automatización de reservas y gestión de turnos  
+**Sector:** Turismo / Agencia de viajes  
+**Estado:** Operativo
+
+### 📌 Descripción
+Sistema de reservas online para excursiones turísticas. 
+Permite a los clientes reservar su lugar desde un formulario web, 
+registrando automáticamente los datos en una planilla de gestión 
+con notificaciones instantáneas al cliente y al operador.
+
+### ⚙️ Tecnologías utilizadas
+- Google Forms (interfaz de reserva)
+- Google Sheets (base de datos y gestión)
+- Google Apps Script (automatización y lógica)
+- Envío automático de emails de confirmación
+- Notificaciones por WhatsApp
+
+![Formulario principal](excursiones-formulario.png)
+
+![excursiones sheet](excursiones-sheet.png)
+
+![excursiones wsp](excursiones-wsp.png)
+
+![excursiones calendario](excursiones-wsp.png)
+
+---
+
+## ✂️ Sistema de Turnos – Peluquería
+
+**Tipo de proyecto:** Gestión de turnos con notificaciones automáticas  
+**Sector:** Servicios / Comercio  
+**Estado:** Operativo
+
+### 📌 Descripción
+Sistema de gestión de turnos para peluquería. Los clientes solicitan 
+su turno online y reciben confirmación automática por email y WhatsApp, 
+reduciendo ausencias y optimizando la agenda del negocio.
+
+### ⚙️ Tecnologías utilizadas
+- Google Forms (solicitud de turno)
+- Google Sheets (agenda y registro)
+- Google Apps Script (automatización)
+- Notificaciones automáticas por email y WhatsApp
+
+---
+![Formulario principal](peluqueria-formulario.png)
+
+![peluqueria sheet](peluqueria-sheet.png)
+
+![peluqueria wsp](peluqueria-wsp.png)
+
+
